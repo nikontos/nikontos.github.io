@@ -1,5 +1,5 @@
 # nikontos.github.io
-A personal site
+A personal site, work in progress
 
 // TODO:
 Center Apod image
